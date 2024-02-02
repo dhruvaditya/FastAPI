@@ -22,7 +22,7 @@ quizzes_data=[
                 "correct_answer":"A",
             },
             {
-                "statement":"What is statue of unity located" ,
+                "statement":"Where is statue of unity situated?" ,
                 "options":["A. Bihar", "B. Gujarat"],
                 "correct_answer":"B",
             }
