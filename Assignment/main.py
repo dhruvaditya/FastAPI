@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 app = FastAPI()
 models.Base.metadata.create_all(bind=engine)
-#Here the quiz is created in the local database which will be reflected to the user when call the GET Method
+#Here the quiz is created in the local database which will be reflected to the user initially
 quizzes_data=[
     {
         "title":"AI Quiz",
